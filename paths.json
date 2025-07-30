@@ -1,16 +1,16 @@
 {
   "mappings": [
-    "/content/wknd-universal/language-masters/en:/",
-    "/content/wknd-universal/language-masters/en/:/",
-    "/content/wknd-universal/language-masters/en/:/en/",
-    "/content/wknd-universal/configuration:/.helix/config.json",
-    "/content/wknd-universal/metadata:/metadata.json",
-    "/content/wknd-universal/redirects:/redirects.json",
-    "/content/wknd-universal/placeholders:/placeholders.json",
-    "/content/wknd-universal.resource/language-masters/en/query-index.json:/en/query-index.json"
+    "/content/wknd-travel/language-masters/en:/",
+    "/content/wknd-travel/language-masters/en/:/",
+    "/content/wknd-travel/language-masters/en/:/en/",
+    "/content/wknd-travel/configuration:/.helix/config.json",
+    "/content/wknd-travel/metadata:/metadata.json",
+    "/content/wknd-travel/redirects:/redirects.json",
+    "/content/wknd-travel/placeholders:/placeholders.json",
+    "/content/wknd-travel.resource/language-masters/en/query-index.json:/en/query-index.json"
   ],
   "includes": [
-    "/content/wknd-universal/",
-    "/content/dam/wknd-universal/"
+    "/content/wknd-travel/",
+    "/content/dam/wknd-travel/"
   ]
 }
